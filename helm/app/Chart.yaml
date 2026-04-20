@@ -1,0 +1,14 @@
+apiVersion: v2
+name: cicd-eks-demo
+description: CI/CD Demo App — Flask on Amazon EKS
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+keywords:
+  - cicd
+  - eks
+  - flask
+  - demo
+maintainers:
+  - name: Your Name
+    email: you@example.com
